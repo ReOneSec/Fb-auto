@@ -302,12 +302,12 @@ def clear():
     os.system("clear")
 
 logo=("""
-    </> OPEN SOURCED BY - NeonNexus69
-    </> TELEGRAM - t.me/NeonNexus69
+    </> OPEN SOURCED BY - @ViperROX
+    </> TELEGRAM - t.me/CSFTEAM3
 """)
 ll=str([hari,tanggal])
 kk=str([xy,co])
-hx=(f""" </> OPEN SOURCED BY - NeonNexus69 """)
+hx=(f""" </> OPEN SOURCED BY - @ViperROX """)
 def banner():
     os.system("clear")
     print(Panel(logo,subtitle="[bold red]● [bright_yellow]● [green1]●",subtitle_align='left',title="[bold red]● [bright_yellow]● [green1]●",title_align='right',width=102,padding=0,style=f"bold magenta2"))
