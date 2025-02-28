@@ -1,5 +1,4 @@
 requests
 bs4
-string
 faker
 fake_useragent
